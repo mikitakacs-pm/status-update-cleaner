@@ -2,6 +2,11 @@
 
 A simple tool for project managers. Paste your raw notes from a call or coffee chat — get back a structured stakeholder update in seconds. Built with Claude AI and deployed on Vercel.
 
+🔗 [Try the live demo](https://status-update-cleaner.vercel.app/)
+
+<img width="1132" height="702" alt="image" src="https://github.com/user-attachments/assets/4e0bc8cc-c106-4e5e-b923-49eaf37b07d3" />
+
+
 This turns messy notes into a structured stakeholder update. It has two parts:
 
 - `index.html` — the page people use (already built)
